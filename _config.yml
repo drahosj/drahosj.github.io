@@ -1,15 +1,12 @@
 # Site settings
-title: Information Assurance Student Group  
-email: iasg-cabinet@iastate.edu
+title: Jake Drahos
+email: jake@jakedrahos.com
 description: > # this means to ignore newlines until "baseurl:"
-    The Information Assurance Student Group (IASG), part of the Information
-    Assurance Center at Iowa State is dedicated to
-    information security and holds weekly meetings for students interested in the
-    infosec field.
+    My blog about radio, security, operating systems, and hardware.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://iasg-host.iseage.org" # the base hostname & protocol for your site
+url: "http://jakedrahos.com" # the base hostname & protocol for your site
 twitter_username: 
-github_username:
+github_username: drahosj
 
 # Build settings
 markdown: kramdown
